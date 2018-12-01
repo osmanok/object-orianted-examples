@@ -1,0 +1,44 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - mainn",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "mainn",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ogrencimain",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "ogrenci.ogrencimain",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - main",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "iki.main",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - bir",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "paket1.bir",
+      "args": ""
+    }
+  ]
+}
